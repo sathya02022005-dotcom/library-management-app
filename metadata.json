@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Library Management",
+  "description": "A sophisticated library management system featuring a smart AI assistant for personalized recommendations, real-time catalog search, and a beautiful, immersive user experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
